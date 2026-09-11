@@ -107,13 +107,7 @@ Customer information is associated with properties through the **Client ID**.
 * Data entry
 * Data storage and management
 
----
 
-# 📈 Dashboard Analysis
-
-The Power BI dashboard covers the years:
-
-**2025 | 2026 | 2027**
 
 ---
 
