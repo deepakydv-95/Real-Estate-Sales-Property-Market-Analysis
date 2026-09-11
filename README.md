@@ -264,7 +264,7 @@ The dashboard provides a consolidated view of real estate performance and helps 
 
 # 🚀 Skills Demonstrated
 
-**Power BI | Python | Matplotlib | SQL | DAX | Data Visualization | Data Analysis | Dashboard Development | Business Intelligence**
+**Power BI | Python | Matplotlib | SQL | DAX |Power Query | Data Visualization | Data Analysis | Dashboard Development | Business Intelligence**
 
 ---
 
